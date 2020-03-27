@@ -1,4 +1,4 @@
-package zadanie3;
+package zadanie3.zadanie3_1;
 
 class Solution {
     public int solution(int X, int Y, int D) {

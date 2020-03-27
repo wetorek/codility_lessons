@@ -1,4 +1,4 @@
-package zadanie2_1;
+package zadanie2.zadanie2_1;
 
 import java.util.HashSet;
 //https://www.youtube.com/watch?v=thpS8uwAwD0&list=PLBhZoc-DOzJHCtgnAgYFgMY33Kqjul2bc&index=2

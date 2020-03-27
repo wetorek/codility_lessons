@@ -1,4 +1,4 @@
-package zadanie3.zadanie3_2;
+package zadanie3.zadanie3_2_PermMissing;
 
 public class Solution {
     public int solution (int []A){

@@ -1,4 +1,4 @@
-package zadanie2_2;
+package zadanie2.zadanie2_2;
 
  class Solution {
     public int[] solution(int[] A, int K) {
