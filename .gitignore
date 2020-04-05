@@ -1,0 +1,9 @@
+# Default ignored files
+/out/
+/.idea/workspace.xml
+/.idea/
+/codility_lessons.iml
+git rm .idea
+/.out/
+
+
